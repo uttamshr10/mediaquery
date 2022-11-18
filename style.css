@@ -18,10 +18,33 @@ body {
     place-content: center;
 }
 
-.change {
-    
+#size {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translateX(-50%);
 }
 
-#size {
+@media (max-width: 1200px) { 
+    body {
+        background: cyan;
+    }
+}
 
+@media (max-width: 992px) {
+    body {
+        background: fuchsia;
+    }
+}
+
+@media(max-width: 768px) {
+    body {
+        background: royalblue;
+    }
+}
+
+@media (max-width: 576px) {
+    body {
+        background: darkmagenta;
+    }
 }
