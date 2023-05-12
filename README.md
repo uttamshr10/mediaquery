@@ -21,18 +21,18 @@ git@github.com:uttamshr10/mediaquery.git
 
 <p align="center"><b>Big Screen</b></p>
 
-![Header section](/images/bigger-screen.png)
+![Big Screen](images/bigger-screen.png)
 
 <p align="center"><b>Medium Screen</b></p>
 
-![About Me](/images/medium-screen.png)
+![Medium Screen](images/medium-screen.png)
 
-<p align="center"><b>Smaller Screen</b></p>
+<p align="center"><b>Small Screen</b></p>
 
-![Skills and Education](/images/small-screen.png)
+![Small Screen](images/small-screen.png)
 
 
-[Live Demo](uttamshr10.github.io/mediaquery)
+[Live Demo](https://uttamshr10.github.io/mediaquery/)
 
 # Author
 ## Uttam Shrestha
