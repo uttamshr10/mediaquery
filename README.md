@@ -32,7 +32,7 @@ git@github.com:uttamshr10/mediaquery.git
 ![Skills and Education](/images/small-screen.png)
 
 
-[Live Demo](https://www.uttamshr10.github.io/mediaquery)
+[Live Demo](https://www.uttamshr10.github.io/mediaquery/)
 
 # Author
 ## Uttam Shrestha
